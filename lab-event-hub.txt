@@ -1,0 +1,50 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+<header>
+    <h1>Event Hub</h1>
+    <nav>
+       <ul>
+<li><a href="#upcoming-events">Upcoming Events</a></li>
+<li><a href="#past-events">Past Events</a></li>
+           </ul> 
+    </nav>
+</header>
+ <main>
+     <section id="upcoming-events">
+     <h2>Upcoming Events</h2>
+     <article>
+         <h3>Tech Innovation Conference</h3>
+         <p>This event will showcase the latest trends in technology and innovation from industry experts.</p>
+     </article>
+     <article>
+         <h3>Web Development Worksho</h3>
+         <p>A hands-on workshop where beginners can learn the basics of HTML, CSS, and JavaScript.</p>
+     </article>
+    </section>
+    <section id="past-events">
+        <h2>Past Events</h2>
+        <article>
+         <h3>Annual Tech Expo 2025</h3>
+         <p>The expo brought together tech enthusiasts to explore new gadgets and innovations.</p>
+       <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg" alt="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg"></img>  
+     </article>
+     <article>
+         <h3>Beginner Coding Bootcamp</h3>
+         <p>Participants learned the fundamentals of programming through hands-on activities and projects.</p>
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg" alt="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg"></img> 
+     </article>
+<body>
+
+</body>
+
+</html>
+
+** end of index.html **
+
